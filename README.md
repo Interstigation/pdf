@@ -1,1 +1,1 @@
-Official Interstigation pdfs, including notes, are uploaded to this repository.
+This is the offical Interstigation website.
